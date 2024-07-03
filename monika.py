@@ -67,7 +67,7 @@ bot = Bot(command_prefix=COMMAND_PREFIX,
           owner_ids=[1063386002955190312]
         )
 
-bot.monika_thread_id =  1253816724709707796 # (Thread For storing messages)
+bot.monika_thread_id =  1254613500500639804 # (Thread For storing messages)
 
 
 
